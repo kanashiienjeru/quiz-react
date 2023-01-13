@@ -3,28 +3,28 @@ import './styles.css'
 
 const questions = [
   {
-    title: 'Как меня зовут?',
-    variants: ['Артём', 'Денис', 'Максим'],
+    title: '2+2',
+    variants: ['4', '8', '10'],
     current: 0,
   },
   {
-    title: 'Сколько мне лет?',
-    variants: ['17', '18', '19'],
+    title: 'Сколько месяцев в году?',
+    variants: ['6', '12', '19'],
     current: 1,
   },
   {
-    title: 'Какой у меня ранг в osu?',
-    variants: ['16k', '12k', '13k'],
+    title: 'Сколько минут в 1 часе?',
+    variants: ['15', '60', '40'],
     current: 1,
   },
   {
-    title: 'Какой у меня ранг в Valorant?',
-    variants: ['Gold 1', 'Silver 3', 'Silver 1'],
+    title: 'Сколько часов в сутках?',
+    variants: ['18', '22', '24'],
     current: 2,
   },
   {
-    title: 'Я - ',
-    variants: ['хороший', 'классный', 'няшный'],
+    title: 'Сколько дней в неделе? ',
+    variants: ['5', '7', '6'],
     current: 1,
   },
 ]
